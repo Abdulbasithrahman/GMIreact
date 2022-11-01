@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/GMI/static/css/main.f01a8b62.css",
+    "main.js": "/GMI/static/js/main.0dd9baa9.js",
+    "index.html": "/GMI/index.html",
+    "main.f01a8b62.css.map": "/GMI/static/css/main.f01a8b62.css.map",
+    "main.0dd9baa9.js.map": "/GMI/static/js/main.0dd9baa9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f01a8b62.css",
+    "static/js/main.0dd9baa9.js"
+  ]
+}
